@@ -8,7 +8,7 @@ This Test Case includes Following Things:
 	- Test Case
 	- Test Steps
 	- Test Data
-	- Expected Result
+  - Expected Result
   - Actual Result
   - Status
   - Remarks

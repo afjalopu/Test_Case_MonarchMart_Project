@@ -13,7 +13,7 @@ This Test Case includes Following Things:
   - Status
   - Remarks
   
-## More Projects
+## More Project
    Gmail Login Project
    - A Test Case Project on the Login Page of Gmail.
    - Link : https https://github.com/afjalopu/Test_Case_Gmail_Project
